@@ -31,7 +31,7 @@ npx skills@latest add mattpocock/skills
 2. Pick the skills you want, and which coding agents you want to install them on. **Make sure you select `/setup-matt-pocock-skills`**.
 
 3. Run `/setup-matt-pocock-skills` in your agent. It will:
-   - Ask you which issue tracker you want to use (GitHub, Linear, or local files)
+   - Ask you which issue tracker you want to use (GitHub, Linear, Beads, or local files)
    - Ask you what labels you apply to ticks when you triage them (`/triage` uses labels)
    - Ask you where you want to save any docs we create
 
