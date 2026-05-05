@@ -57,7 +57,9 @@ The five canonical roles:
 - `ready-for-human` — needs human implementation
 - `wontfix` — will not be actioned
 
-Default: each role's string equals its name. Ask the user if they want to override any. If their issue tracker has no existing labels, the defaults are fine.
+For Beads: Present the mapping information `issue-tracker-beads.md` and ask the user if they want to make any changes.
+
+Otherwise: each role's string equals its name. Ask the user if they want to override any. If their issue tracker has no existing labels, the defaults are fine. 
 
 **Section C — Domain docs.**
 
